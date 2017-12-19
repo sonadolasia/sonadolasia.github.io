@@ -1,15 +1,5 @@
-## Sona Dolasia
-
-You can use the [editor on GitHub](https://github.com/sonadolasia/sonadolasia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+**## hello!**
+I am a freshman at UC Berkeley interested in product design, user experience and artifical intelligence.  
 
 # Header 1
 ## Header 2
