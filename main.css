@@ -6,6 +6,15 @@ body, html {
     background-size: cover;
 }
 
+img {
+    width: 100%;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
 .bg {
     /* The image used */
     background-image: url("sona-blue.gif");
