@@ -1,0 +1,38 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@font-face {
+	font-family: "Proxima Nova";
+	src:url('Proxima-Nova.ttf');
+}
+
+.email_text {
+	text-shadow:
+		-1px -1px 0 #5585f2,
+		1px -1px 0 #5585f2,
+		-1px 1px 0 #5585f2,
+		1px 1px 0 #5585f2;
+	font-family: "Proxima Nova";
+	color: white;
+	font-size: 30px;
+	top:20px;
+	padding-right: 20px;
+	padding-left: 50px;
+	position:relative;
+}
+
+
+.email {
+	font-family: "Proxima Nova";
+	color: #5585f2;
+	font-size: 60px;
+	top:20px;
+	padding-right: 20px;
+	padding-left: 100px;
+	position:relative;
+}
