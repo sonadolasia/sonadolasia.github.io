@@ -6,10 +6,6 @@ body, html {
     background-size: cover;
 }
 
-img {
-    width: 100%;
-    height: auto;
-}
 a:link {
 	color: #5585f2;
         text-decoration: none;
@@ -77,3 +73,31 @@ a:active {
 	text-align: center;
 
 }
+#header {
+  text-align: center;
+}
+.left {
+  float: left;
+  height: 80px;
+  position:center;
+  padding-left: 450px;
+  padding-top: 300px;
+  width: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.right {
+  float: right;
+  height: 70px;
+  position:center;
+  padding-right: 450px;
+  padding-top: 300px;
+  width: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
