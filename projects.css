@@ -1,0 +1,73 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a:link {
+  color: #5585f2;
+        text-decoration: none;
+}
+a:visited {
+  color: #5585f2;
+        text-decoration: none;
+}
+a:hover {
+  color: #6d7077;
+        text-decoration: none;
+}
+a:active {
+  color: #5585f2;
+        text-decoration: none;
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src:url('Proxima-Nova.ttf');
+}
+
+.header {
+  font-family: "Proxima Nova";
+  text-align: center;
+  color: #5585f2;
+  font-size: 30px;
+  top:20px;
+  padding-right: 0px;
+  padding-left: 0px;
+  position:relative;
+  header:link {
+    text-decoration: none;
+  }
+  header:visited {
+    text-decoration: none;
+  }
+}
+#header {
+  text-align: center;
+}
+.left {
+  height: 300px;
+  position:center;
+  padding-top: 60px;
+  padding-bottom: 40px;
+
+  width: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.right {
+  height: 300px;
+  position:center;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  width: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
