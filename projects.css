@@ -51,7 +51,7 @@ a:active {
   height: 300px;
   position:center;
   padding-top: 60px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;
 
   width: auto;
   background-position: center;
@@ -62,7 +62,7 @@ a:active {
   height: 300px;
   position:center;
   padding-top: 60px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;
   width: auto;
   background-position: center;
   background-repeat: no-repeat;
