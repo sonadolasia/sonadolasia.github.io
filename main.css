@@ -17,10 +17,10 @@ img {
 
 .bg {
     /* The image used */
-    background-image: url("sona-blue.gif");
+    background-image: url("sona-2.gif");
 
     /* Full height */
-    height: 100%; 
+    width: 100%; 
 
     /* Center and scale the image nicely */
     background-position: center;
