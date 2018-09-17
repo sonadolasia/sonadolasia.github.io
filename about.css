@@ -9,7 +9,6 @@ body, html {
 	font-family: 'Montserrat', sans-serif;
 
 }
-
 a:link {
 	color: #ffffff;
         text-decoration: none;
@@ -27,8 +26,6 @@ a:active {
         text-decoration: none;
 }
 
-
-
 .header {
 	text-align: center;
 	color: #ffffff;
@@ -45,23 +42,7 @@ a:active {
 	}
 }
 
-.email_text {
-	/*text-shadow:
-		-1px -1px 0 #5585f2,
-		1px -1px 0 #5585f2,
-		-1px 1px 0 #5585f2,
-		1px 1px 0 #5585f2;*/
-	color: #ffffff;
-	font-size: 30px;
-	top:100px;
-	padding-right: 20px;
-	padding-left: 0px;
-	position:relative;
-	text-align: center;
-}
-
-
-.email {
+.about {
 	color: #ffffff;
 	font-size: 60px;
 	top:150px;
@@ -71,31 +52,13 @@ a:active {
 	text-align: center;
 
 }
-#header {
-  text-align: center;
-}
-.left {
-  float: left;
-  height: 80px;
-  position:center;
-  padding-left: 450px;
-  padding-top: 300px;
-  width: auto;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.right {
-  float: right;
-  height: 70px;
-  position:center;
-  padding-right: 450px;
-  padding-top: 300px;
-  width: auto;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 
+.desc {
+	color: #ffffff;
+	font-size: 30px;
+	top:250px;
+	padding-right: 20px;
+	padding-left: 0px;
+	position:relative;
+	text-align: center;
 }
-
-
