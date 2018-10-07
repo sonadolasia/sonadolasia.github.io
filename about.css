@@ -2,7 +2,7 @@
 body, html {
 	height: 100%;
 	margin: 0;
-	background-color: black;
+	background-color: white;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -10,11 +10,11 @@ body, html {
 
 }
 a:link {
-	color: #ffffff;
+	color: #000000;
         text-decoration: none;
 }
 a:visited {
-	color: #ffffff;
+	color: #000000;
         text-decoration: none;
 }
 a:hover {
@@ -22,14 +22,14 @@ a:hover {
         text-decoration: none;
 }
 a:active {
-	color: #ffffff;
+	color: #000000;
         text-decoration: none;
 }
 
 .header {
 	text-align: center;
 	top:250px;
-	color: #ffffff;
+	color: #000000;
 	font-size: 30px;
 	top:20px;
 	padding-right: 0px;
@@ -44,18 +44,42 @@ a:active {
 }
 
 .about {
-	color: #ffffff;
+	color: #000000;
 	font-size: 60px;
-	top:150px;
-	padding-right: 20px;
-	padding-left: 0px;
+	top:100px;
+	padding-right: 60px;
+	padding-left: 80px;
 	position:relative;
-	text-align: center;
+	text-align: left;
 
 }
 
 .desc {
-	color: #ffffff;
+	color: #000000; 
+	font-size: 30px;
+	top:180px;
+	padding-right: 140px;
+	padding-left: 120px;
+	position:relative;
+	text-align: right;
+	line-height: 40px;
+}
+
+.fun {
+	color: #000000; 
+	font-size: 20px;
+	top:210px;
+	padding-right: 120px;
+	padding-left: 80px;
+	position:relative;
+	text-align: left;
+		line-height: 30px;
+
+}
+
+
+.hea {
+	color: #000000;
 	font-size: 30px;
 	top:250px;
 	padding-right: 20px;
@@ -63,12 +87,9 @@ a:active {
 	position:relative;
 	text-align: center;
 }
-.hea {
-	color: #ffffff;
-	font-size: 30px;
-	top:250px;
-	padding-right: 20px;
-	padding-left: 0px;
-	position:relative;
-	text-align: center;
+
+br {
+   display: block;
+   margin: 10px;
+   line-height: 5px
 }
