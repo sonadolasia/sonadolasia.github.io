@@ -27,6 +27,16 @@ a:active {
         text-decoration: none;
 }
 
+.desc {
+	color: #000000; 
+	font-size: 50px;
+	top:300px;
+	padding-right: 200px;
+	padding-left: 200px;
+	position:relative;
+	text-align: right;
+	line-height: 40px;
+}
 
 
 .header {
