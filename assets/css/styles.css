@@ -1,7 +1,14 @@
 a:link {
-color: #ffffff;
+color: #212529;
 }
 
 a, a:visited, a:hover, a:active {
+color: inherit;
+}
+b:link {
+color: #ffffff;
+}
+
+b, b:visited, b:hover, b:active {
 color: inherit;
 }
