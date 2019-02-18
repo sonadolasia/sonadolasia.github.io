@@ -1,4 +1,7 @@
 a:link {
-  color: #202020;
+color: #ffffff;
 }
 
+a, a:visited, a:hover, a:active {
+color: inherit;
+}
