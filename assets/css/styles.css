@@ -1,15 +1,4 @@
 a:link {
-color: #37434d;
+  color: inherit;
 }
 
-a, a:visited, a:hover, a:active {
-color: inherit;
-}
-
-b:link {
-color: #ffffff;
-}
-
-b, b:visited, b:hover, b:active {
-color: inherit;
-}
