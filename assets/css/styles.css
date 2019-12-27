@@ -16,6 +16,7 @@ a {
  }
 
 .body {
+  background-color: #3E7178;
   font-size: 16px;
   margin: 0px;
 }
@@ -32,4 +33,17 @@ a {
 
 .caption {
   font-size: 12px;
+}
+
+@font-face {
+    font-family: "Apercu-Bold";
+    src: url("assets/fonts/Apercu-Bold.ttf");
+}
+@font-face {
+    font-family: "Apercu-Mono";
+    src: url("assets/fonts/Apercu-Mono.otf");
+}
+@font-face {
+    font-family: "Apercu-Light";
+    src: url("assets/fonts/Apercu-Light.otf");
 }
