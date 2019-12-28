@@ -35,7 +35,7 @@ a {
   font-size: 12px;
 }
 
-@font-face {
+/* @font-face {
     font-family: "Apercu-Bold";
     src: url("assets/fonts/apercu-bold-webfont.woff");
 }
@@ -46,4 +46,4 @@ a {
 @font-face {
     font-family: "Apercu-Light";
     src: url("assets/fonts/apercu-light-webfont.woff");
-}
+} */
