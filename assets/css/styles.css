@@ -35,6 +35,12 @@ a {
   font-size: 12px;
 }
 
+.link {
+  color: #ffffff;
+}
+
+.link:hover { color: #F2C94C; } 
+
 /* @font-face {
     font-family: "Apercu-Bold";
     src: url("assets/fonts/apercu-bold-webfont.woff");
