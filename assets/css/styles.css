@@ -35,11 +35,17 @@ a {
   font-size: 12px;
 }
 
-.link {
+.link .link:visited {
   color: #333333;
 }
 
 .link:hover { color: #56CCF2; }
+
+positions{
+    position:absolute;
+    bottom:0;
+    left:0;
+}
 
 /* @font-face {
     font-family: "Apercu-Bold";
