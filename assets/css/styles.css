@@ -36,10 +36,10 @@ a {
 }
 
 .link {
-  color: #ffffff;
+  color: #333333;
 }
 
-.link:hover { color: #F2C94C; } 
+.link:hover { color: #56CCF2; }
 
 /* @font-face {
     font-family: "Apercu-Bold";
